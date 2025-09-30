@@ -1,0 +1,15 @@
+# Ignore dataset and checkpoints
+dataset/
+checkpoints/
+*.pth
+*.npy
+*.png
+*.jpg
+*.log
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+.env/
